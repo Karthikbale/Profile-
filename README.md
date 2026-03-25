@@ -51,10 +51,15 @@
 - Code quality checked using SonarQube
 - Monitoring with Prometheus & Grafana
 
-### ☁️ AWS 3-Tier Architecture
-- Created VPC, Subnets, ALB, EC2, RDS using Terraform
-- Implemented secure architecture with Security Groups
-- Remote backend using S3 & DynamoDB
+### 🤖 ML Inference API – Dockerized Deployment
+- Developed a Machine Learning model and exposed it as a REST API using FastAPI  
+- Containerized the application using Docker for portability  
+- Deployed and tested API for real-time predictions  
+- Designed cloud-ready architecture for AWS deployment  
+- Tech: Python, FastAPI, Docker, AWS
+- Monitoring with Prometheus & Grafana
+  
+
 ## 🔄 DevOps Workflow
 Code → GitHub → Jenkins → Docker → Kubernetes → AWS → Monitoring (Prometheus + Grafana)
 # 📊 GitHub Stats:
