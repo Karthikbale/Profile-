@@ -1,4 +1,10 @@
 # Profile
+## 👨‍💻 About Me
+- 🎓 MCA Final Year Student from Osmania University
+- ☁️ Passionate about DevOps, AWS & Cloud Infrastructure
+- ⚙️ Skilled in CI/CD, Docker, Kubernetes & Terraform
+- 📈 Interested in building scalable and automated systems
+- 📫 Reach me at: karthikbale2002@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-bale-b68064289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikbale2002@gmail.com) 
@@ -34,6 +40,23 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+## 🚀 DevOps Projects
+
+### 🍔 Food Delivery DevOps Project
+- Built CI/CD pipeline using Jenkins
+- Containerized application using Docker
+- Deployed on Kubernetes (EKS)
+- Infrastructure provisioned using Terraform
+- Code quality checked using SonarQube
+- Monitoring with Prometheus & Grafana
+
+### ☁️ AWS 3-Tier Architecture
+- Created VPC, Subnets, ALB, EC2, RDS using Terraform
+- Implemented secure architecture with Security Groups
+- Remote backend using S3 & DynamoDB
+## 🔄 DevOps Workflow
+Code → GitHub → Jenkins → Docker → Kubernetes → AWS → Monitoring (Prometheus + Grafana)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karthikbale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=karthikbale&theme=dark&hide_border=false)<br/>
